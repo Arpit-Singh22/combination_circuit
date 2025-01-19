@@ -1,1 +1,1 @@
-# combination_circuit
+# combinational circuit
